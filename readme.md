@@ -1,4 +1,4 @@
-## Heyoo, everyone welcome to my git guide
+## Welcome to Git!
 
--Yo, Josh here!
+-This is comming from `dev-ayomi`.
 -I'm adding this from `feature-branch`
